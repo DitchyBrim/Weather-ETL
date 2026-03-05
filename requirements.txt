@@ -1,0 +1,14 @@
+# Core dependencies
+pyowm==3.3.0
+pandas==2.1.4
+python-dotenv==1.0.0
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Scheduling (optional)
+schedule==1.2.0
+
+# Utilities
+requests==2.31.0
